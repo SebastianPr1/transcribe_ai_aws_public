@@ -1,0 +1,5 @@
+pip install --target=C:\Users\priet\projects\aws\packages\openai openai urllib3==1.26
+
+
+reasons:
+https://community.openai.com/t/openai-cannot-import-name-default-ciphers-problem-breaking-changes-with-the-latest-version-of-requests/194265
