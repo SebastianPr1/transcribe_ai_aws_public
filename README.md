@@ -4,6 +4,8 @@ This is a serverless project for automatic transcription and summarization using
 
 Is made to serve long videos, and in particular non-english speakers content.
 
+![Alt text](<transcribe-ai aws architecure.png>)
+
 ## Table of Contents 
 
 - [About the Project](#about-the-project)
